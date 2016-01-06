@@ -2,4 +2,4 @@
 
 Solarized themes for JetBrains Clion & IntelliJ with C/C++ support.
 
-Based on https://github.com/jkaving/intellij-colors-solarized. See it for 
+Based on https://github.com/jkaving/intellij-colors-solarized. See it for further instructions & readme.
