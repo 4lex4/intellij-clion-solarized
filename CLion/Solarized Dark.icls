@@ -1,7 +1,6 @@
 <scheme name="Solarized Dark (official)" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
@@ -2126,9 +2125,7 @@
       </value>
     </option>
     <option name="OC.TYPEDEF">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-      </value>
+      <value />
     </option>
     <option name="OC.VALID_STRING_ESCAPE">
       <value>
