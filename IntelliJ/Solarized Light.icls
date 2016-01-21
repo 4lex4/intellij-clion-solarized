@@ -1,8 +1,6 @@
 <scheme name="Solarized Light" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baeeba" />
@@ -27,10 +25,20 @@
     <option name="WHITESPACES" value="93a1a1" />
   </colors>
   <attributes>
+    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b58800" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="APACHE_CONFIG.ARG_LEXEM">
@@ -195,6 +203,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
     <option name="CLASS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -345,9 +358,6 @@
         <option name="FOREGROUND" value="2aa198" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="COFFEESCRIPT.THIS">
-      <value />
     </option>
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
@@ -967,6 +977,11 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
+    <option name="ENUM_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="dc322f" />
@@ -1213,6 +1228,11 @@
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="IVAR">
@@ -1532,9 +1552,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_BACKGROUND">
-      <value />
-    </option>
     <option name="JSP_DIRECTIVE_NAME">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -1584,9 +1601,6 @@
         <option name="FOREGROUND" value="657b83" />
         <option name="FONT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="KOTLIN_FUNCTION_CALL">
-      <value />
     </option>
     <option name="KOTLIN_INSTANCE_PROPERTY">
       <value>
@@ -2719,9 +2733,6 @@
       <value>
         <option name="FOREGROUND" value="cb4b16" />
       </value>
-    </option>
-    <option name="SASS_STRING">
-      <value />
     </option>
     <option name="SASS_VARIABLE">
       <value>

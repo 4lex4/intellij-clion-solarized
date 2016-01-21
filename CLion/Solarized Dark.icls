@@ -2117,7 +2117,9 @@
       </value>
     </option>
     <option name="OC.STRUCT_LIKE">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
     </option>
     <option name="OC.TEMPLATE_TYPE">
       <value>
@@ -2125,7 +2127,9 @@
       </value>
     </option>
     <option name="OC.TYPEDEF">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
     </option>
     <option name="OC.VALID_STRING_ESCAPE">
       <value>
