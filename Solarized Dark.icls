@@ -28,6 +28,7 @@
     <option name="SELECTED_TEARLINE_COLOR" value="657b83" />
     <option name="SELECTION_BACKGROUND" value="657b83" />
     <option name="SELECTION_FOREGROUND" value="2b36" />
+    <option name="SEPARATOR_BELOW_COLOR" value="11424d" />
     <option name="TEARLINE_COLOR" value="586e75" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="464c43" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="444342" />
@@ -163,30 +164,24 @@
     </option>
     <option name="BREADCRUMBS_CURRENT">
       <value>
-        <option name="FOREGROUND" value="bbbbbb" />
-        <option name="BACKGROUND" value="61614b" />
-        <option name="EFFECT_COLOR" value="323232" />
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="BACKGROUND" value="254e57" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="bbbbbb" />
-        <option name="BACKGROUND" value="65686a" />
-        <option name="EFFECT_COLOR" value="323232" />
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
       <value>
-        <option name="FOREGROUND" value="bbbbbb" />
-        <option name="BACKGROUND" value="797d7f" />
-        <option name="EFFECT_COLOR" value="323232" />
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="BACKGROUND" value="11424d" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="bbbbbb" />
-        <option name="BACKGROUND" value="828282" />
-        <option name="EFFECT_COLOR" value="464646" />
+        <option name="FOREGROUND" value="94a1a1" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
