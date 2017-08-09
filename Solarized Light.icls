@@ -33,22 +33,6 @@
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
-    <option name="APACHE_CONFIG.ARG_LEXEM">
-      <value>
-        <option name="FOREGROUND" value="b58900" />
-      </value>
-    </option>
-    <option name="APACHE_CONFIG.COMMENT">
-      <value>
-        <option name="FOREGROUND" value="93a1a1" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="APACHE_CONFIG.IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
     <option name="Abstract class">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -65,6 +49,9 @@
       <value>
         <option name="FOREGROUND" value="268bd2" />
       </value>
+    </option>
+    <option name="BACKGROUND">
+      <value />
     </option>
     <option name="BAD_CHARACTER">
       <value>
@@ -512,7 +499,11 @@
       </value>
     </option>
     <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="657b83" />
+      </value>
+    </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -1331,111 +1322,23 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
-    <option name="PHP_BRACKETS">
-      <value>
-        <option name="FOREGROUND" value="dc322f" />
-      </value>
-    </option>
-    <option name="PHP_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="93a1a1" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="PHP_CONSTANT">
-      <value>
-        <option name="FOREGROUND" value="2aa198" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="PHP_DOC_COMMENT_ID">
-      <value>
-        <option name="FOREGROUND" value="93a1a1" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="PHP_DOC_TAG">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="93a1a1" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="PHP_ESCAPE_SEQUENCE">
-      <value>
-        <option name="FOREGROUND" value="d33682" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
-        <option name="FOREGROUND" value="b58900" />
-      </value>
-    </option>
-    <option name="PHP_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-      </value>
-    </option>
-    <option name="PHP_FUNCTION_CALL">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-      </value>
-    </option>
-    <option name="PHP_HEREDOC_CONTENT">
-      <value>
         <option name="FOREGROUND" value="2aa198" />
-      </value>
-    </option>
-    <option name="PHP_INSTANCE_FIELD">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
-    <option name="PHP_INSTANCE_METHOD">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-      </value>
-    </option>
-    <option name="PHP_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="b58900" />
-      </value>
-    </option>
-    <option name="PHP_NUMBER">
-      <value>
-        <option name="FOREGROUND" value="2aa198" />
-      </value>
-    </option>
-    <option name="PHP_OPERATION_SIGN">
-      <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="BACKGROUND" value="d3edeb" />
       </value>
     </option>
     <option name="PHP_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
-    <option name="PHP_PREDEFINED SYMBOL">
-      <value>
-        <option name="FOREGROUND" value="dc322f" />
-      </value>
-    </option>
-    <option name="PHP_STRING">
-      <value>
-        <option name="FOREGROUND" value="2aa198" />
-      </value>
-    </option>
-    <option name="PHP_TAG">
-      <value>
-        <option name="FOREGROUND" value="dc322f" />
-      </value>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value />
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
     <option name="PROPS.INVALID_STRING_ESCAPE">
@@ -2284,48 +2187,6 @@
         <option name="ERROR_STRIPE_COLOR" value="2aa198" />
       </value>
     </option>
-    <option name="TWIG_BAD_CHARACTER">
-      <value>
-        <option name="EFFECT_COLOR" value="dc322f" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="TWIG_BRACKETS">
-      <value>
-        <option name="FOREGROUND" value="dc322f" />
-      </value>
-    </option>
-    <option name="TWIG_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="93a1a1" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="TWIG_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
-    <option name="TWIG_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="b58900" />
-      </value>
-    </option>
-    <option name="TWIG_NUMBER">
-      <value>
-        <option name="FOREGROUND" value="2aa198" />
-      </value>
-    </option>
-    <option name="TWIG_OPERATION_SIGN">
-      <value>
-        <option name="FOREGROUND" value="b58900" />
-      </value>
-    </option>
-    <option name="TWIG_STRING">
-      <value>
-        <option name="FOREGROUND" value="2aa198" />
-      </value>
-    </option>
     <option name="TYPEDEF">
       <value>
         <option name="FOREGROUND" value="b38700" />
@@ -2473,7 +2334,7 @@
     </option>
     <option name="XPATH.XPATH_NAME">
       <value>
-        <option name="FOREGROUND" value="6c71c4" />
+        <option name="FOREGROUND" value="d33682" />
       </value>
     </option>
     <option name="bemhtml.bem.error">
