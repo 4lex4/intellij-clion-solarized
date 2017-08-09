@@ -545,6 +545,11 @@
         <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
+    <option name="DEFAULT_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="657b83" />
+      </value>
+    </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -571,6 +576,11 @@
       <value>
         <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -659,6 +669,17 @@
       <value>
         <option name="FOREGROUND" value="268bd2" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DOCKER_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+      </value>
+    </option>
+    <option name="DOCKER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
@@ -929,6 +950,9 @@
         <option name="FOREGROUND" value="6c71c4" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="JS.BRACKETS">
+      <value />
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
@@ -1878,6 +1902,160 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="ReSharper.ASP_NET_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="657b83" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_BLOCK_TAG">
+      <value>
+        <option name="FOREGROUND" value="73642" />
+        <option name="BACKGROUND" value="fadb7d" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_ENTITY_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="cb4b16" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK">
+      <value>
+        <option name="FOREGROUND" value="73642" />
+        <option name="BACKGROUND" value="fa9a98" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK_TAG">
+      <value>
+        <option name="FOREGROUND" value="73642" />
+        <option name="BACKGROUND" value="fadb7d" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="ReSharper.CONTEXT_EXIT">
+      <value>
+        <option name="BACKGROUND" value="ccccff" />
+        <option name="ERROR_STRIPE_COLOR" value="268bd2" />
+      </value>
+    </option>
+    <option name="ReSharper.DELEGATE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="ReSharper.ENUM_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="ReSharper.FORMAT_STRING_ITEM">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.FORMAT_STRING_ITEM_2">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
+    <option name="ReSharper.HINT">
+      <value>
+        <option name="EFFECT_COLOR" value="9900" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="ReSharper.JSDOC_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+      </value>
+    </option>
+    <option name="ReSharper.JSDOC_PARAMETER_OR_PROPERTY_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="586e75" />
+      </value>
+    </option>
+    <option name="ReSharper.JSDOC_TYPE_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="586e75" />
+      </value>
+    </option>
+    <option name="ReSharper.JSDOC_TYPE_ANNOTATION_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="ReSharper.JSDOC_TYPE_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="ReSharper.JS_BLOCK_LOCAL_VARIABLE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="cb4b16" />
+      </value>
+    </option>
+    <option name="ReSharper.JS_UNKNOWN_PROPERTY_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
+    <option name="ReSharper.JS_XML_DOCUMENTATION_COMMENT">
+      <value>
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="93a1a1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.MATCHED_FORMAT_STRING_ITEM">
+      <value>
+        <option name="BACKGROUND" value="d5d7ed" />
+      </value>
+    </option>
+    <option name="ReSharper.NAMESPACE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="ReSharper.REARRANGE_LEFT_RIGHT_CODE_HINT">
+      <value>
+        <option name="BACKGROUND" value="faf798" />
+      </value>
+    </option>
+    <option name="ReSharper.REARRANGE_UP_DOWN_CODE_HINT">
+      <value>
+        <option name="BACKGROUND" value="c2e1f2" />
+      </value>
+    </option>
+    <option name="ReSharper.STATIC_CLASS_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="ReSharper.STRING_ESCAPE_CHARACTER_2">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="ReSharper.STRUCT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
     <option name="Regular expression">
       <value>
         <option name="FOREGROUND" value="2aa198" />
@@ -2023,6 +2201,13 @@
     <option name="STRUCT_LIKE">
       <value>
         <option name="FOREGROUND" value="b38700" />
+      </value>
+    </option>
+    <option name="SUGGESTION">
+      <value>
+        <option name="EFFECT_COLOR" value="9900" />
+        <option name="ERROR_STRIPE_COLOR" value="9900" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="Scala Abstract class">
@@ -2436,6 +2621,11 @@
     <option name="XML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
+      </value>
+    </option>
+    <option name="XML_NS_PREFIX">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
     <option name="XML_PROLOGUE">

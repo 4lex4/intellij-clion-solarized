@@ -322,6 +322,12 @@
         <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
+    <option name="CONSOLE_SELECTED_PARAMETER">
+      <value>
+        <option name="BACKGROUND" value="11407e" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="839496" />
@@ -354,6 +360,11 @@
         <option name="FOREGROUND" value="cb4b16" />
       </value>
     </option>
+    <option name="CSS.IDENT">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
     <option name="CSS.IMPORTANT">
       <value>
         <option name="FOREGROUND" value="dc322f" />
@@ -362,6 +373,11 @@
     <option name="CSS.TAG_NAME">
       <value>
         <option name="FOREGROUND" value="859900" />
+      </value>
+    </option>
+    <option name="CSS.UNICODE.RANGE">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -574,14 +590,16 @@
       </value>
     </option>
     <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="839496" />
-      </value>
-    </option>
+    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
+    <option name="DEFAULT_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="839496" />
+        <option name="BACKGROUND" value="2b36" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -610,6 +628,11 @@
       <value>
         <option name="FOREGROUND" value="586e75" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="839496" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -724,6 +747,17 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DOCKER_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+      </value>
+    </option>
+    <option name="DOCKER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value>
         <option name="EFFECT_COLOR" value="586e75" />
@@ -805,6 +839,20 @@
       </value>
     </option>
     <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
+    <option name="GRID_ERROR_VALUE">
+      <value>
+        <option name="EFFECT_COLOR" value="dc322f" />
+        <option name="ERROR_STRIPE_COLOR" value="dc322f" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GRID_IMAGE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="586e75" />
+        <option name="BACKGROUND" value="73642" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="HAML_CLASS">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -813,6 +861,18 @@
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="839496" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value>
+        <option name="FOREGROUND" value="839496" />
+        <option name="BACKGROUND" value="2b36" />
+      </value>
+    </option>
+    <option name="HTML_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="586e75" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
@@ -992,6 +1052,9 @@
         <option name="FOREGROUND" value="6c71c4" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="JS.BRACKETS">
+      <value />
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
@@ -1959,6 +2022,190 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="ReSharper.ASP_NET_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="839496" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_BLOCK_TAG">
+      <value>
+        <option name="FOREGROUND" value="eee8d5" />
+        <option name="BACKGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="586e75" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_ENTITY_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="cb4b16" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_MVC_ACTION">
+      <value>
+        <option name="EFFECT_COLOR" value="a32a2a" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK">
+      <value>
+        <option name="FOREGROUND" value="eee8d5" />
+        <option name="BACKGROUND" value="dc322f" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK_TAG">
+      <value>
+        <option name="FOREGROUND" value="eee8d5" />
+        <option name="BACKGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="ReSharper.DELEGATE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="ReSharper.ENUM_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="ReSharper.FORMAT_STRING_ITEM">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.FORMAT_STRING_ITEM_2">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
+    <option name="ReSharper.HINT">
+      <value>
+        <option name="EFFECT_COLOR" value="9900" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="ReSharper.JSDOC_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+      </value>
+    </option>
+    <option name="ReSharper.JSDOC_PARAMETER_OR_PROPERTY_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+      </value>
+    </option>
+    <option name="ReSharper.JSDOC_TYPE_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+      </value>
+    </option>
+    <option name="ReSharper.JSDOC_TYPE_ANNOTATION_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="ReSharper.JSDOC_TYPE_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="ReSharper.JS_BLOCK_LOCAL_CONSTANT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ReSharper.JS_BLOCK_LOCAL_VARIABLE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="cb4b16" />
+      </value>
+    </option>
+    <option name="ReSharper.JS_FUNCTION_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="839496" />
+        <option name="BACKGROUND" value="2b36" />
+      </value>
+    </option>
+    <option name="ReSharper.JS_LOCAL_VARIABLE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="839496" />
+      </value>
+    </option>
+    <option name="ReSharper.JS_PARAMETER_IDENTIFIER">
+      <value />
+    </option>
+    <option name="ReSharper.JS_PROPERTY_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
+    <option name="ReSharper.JS_UNKNOWN_PROPERTY_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
+    <option name="ReSharper.JS_XML_DOCUMENTATION_COMMENT">
+      <value>
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.MATCHED_FORMAT_STRING_ITEM">
+      <value>
+        <option name="BACKGROUND" value="70a40" />
+      </value>
+    </option>
+    <option name="ReSharper.MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="839496" />
+      </value>
+    </option>
+    <option name="ReSharper.NAMESPACE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="ReSharper.REARRANGE_LEFT_RIGHT_CODE_HINT">
+      <value>
+        <option name="BACKGROUND" value="5e5b02" />
+      </value>
+    </option>
+    <option name="ReSharper.REARRANGE_UP_DOWN_CODE_HINT">
+      <value>
+        <option name="BACKGROUND" value="10496b" />
+      </value>
+    </option>
+    <option name="ReSharper.STATIC_CLASS_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="ReSharper.STRING_ESCAPE_CHARACTER_2">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="ReSharper.STRUCT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
     <option name="Regular expression">
       <value>
         <option name="FOREGROUND" value="2aa198" />
@@ -1968,6 +2215,18 @@
     <option name="SASS_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="859900" />
+      </value>
+    </option>
+    <option name="SASS_COLON">
+      <value>
+        <option name="FOREGROUND" value="839496" />
+        <option name="BACKGROUND" value="2b36" />
+      </value>
+    </option>
+    <option name="SASS_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="586e75" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="SASS_CONSTANT">
@@ -2112,9 +2371,19 @@
         <option name="EFFECT_COLOR" value="586e75" />
       </value>
     </option>
+    <option name="SQL_SCHEMA">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
     <option name="SQL_SYNTHETIC_ENTITY">
       <value>
         <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="SQL_TABLE">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
@@ -2122,6 +2391,13 @@
     <option name="STRUCT_LIKE">
       <value>
         <option name="FOREGROUND" value="b38700" />
+      </value>
+    </option>
+    <option name="SUGGESTION">
+      <value>
+        <option name="EFFECT_COLOR" value="9900" />
+        <option name="ERROR_STRIPE_COLOR" value="9900" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="Scala Abstract class">
@@ -2373,6 +2649,18 @@
         <option name="ERROR_STRIPE_COLOR" value="2aa198" />
       </value>
     </option>
+    <option name="TS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="839496" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="TWIG_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="dc322f" />
@@ -2532,9 +2820,19 @@
         <option name="FOREGROUND" value="839496" />
       </value>
     </option>
+    <option name="XML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+      </value>
+    </option>
     <option name="XML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
+      </value>
+    </option>
+    <option name="XML_NS_PREFIX">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
     <option name="XML_PROLOGUE">
