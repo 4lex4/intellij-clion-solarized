@@ -512,11 +512,7 @@
       </value>
     </option>
     <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="657b83" />
-      </value>
-    </option>
+    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -616,11 +612,6 @@
     <option name="DJANGO_ID">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
-      </value>
-    </option>
-    <option name="DOCKER_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="859900" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
@@ -1617,119 +1608,107 @@
         <option name="BACKGROUND" value="d3edeb" />
       </value>
     </option>
-    <option name="RUBY_BAD_CHARACTER">
+    <option name="RHTML_EXPRESSION_END_ID">
+      <value />
+    </option>
+    <option name="RHTML_EXPRESSION_START_ID">
+      <value />
+    </option>
+    <option name="RHTML_OMIT_NEW_LINE_ID">
+      <value />
+    </option>
+    <option name="RHTML_SCRIPTING_BACKGROUND_ID">
       <value>
-        <option name="BACKGROUND" value="dc322f" />
+        <option name="BACKGROUND" value="eee8d5" />
       </value>
     </option>
-    <option name="RUBY_COMMENT">
+    <option name="RHTML_SCRIPTLET_END_ID">
+      <value />
+    </option>
+    <option name="RHTML_SCRIPTLET_START_ID">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="859900" />
+        <option name="FOREGROUND" value="d33682" />
       </value>
     </option>
     <option name="RUBY_CONSTANT_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="859900" />
-      </value>
-    </option>
-    <option name="RUBY_CVAR">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
-    <option name="RUBY_ESCAPE_SEQUENCE">
-      <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="d33682" />
       </value>
     </option>
     <option name="RUBY_EXPR_IN_STRING">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="BACKGROUND" value="eee8d5" />
       </value>
     </option>
     <option name="RUBY_GVAR">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="586e75" />
       </value>
     </option>
     <option name="RUBY_HASH_ASSOC">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="RUBY_HEREDOC_CONTENT">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
       </value>
     </option>
     <option name="RUBY_HEREDOC_ID">
       <value>
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="0" />
-      </value>
-    </option>
-    <option name="RUBY_INVALID_ESCAPE_SEQUENCE">
-      <value>
-        <option name="FOREGROUND" value="dc322f" />
-      </value>
-    </option>
-    <option name="RUBY_IVAR">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
-    <option name="RUBY_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" value="2aa198" />
+        <option name="EFFECT_COLOR" value="2aa198" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_LINE_CONTINUATION">
       <value>
-        <option name="EFFECT_COLOR" value="839496" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="BACKGROUND" value="eee8d5" />
+      </value>
+    </option>
+    <option name="RUBY_LOCAL_VAR_ID">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RUBY_METHOD_NAME">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="cb4b16" />
       </value>
     </option>
     <option name="RUBY_NTH_REF">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="586e75" />
       </value>
     </option>
-    <option name="RUBY_NUMBER">
+    <option name="RUBY_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="859900" />
       </value>
     </option>
     <option name="RUBY_PARAMDEF_CALL">
       <value>
-        <option name="FOREGROUND" value="b58916" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUBY_PARAMETER_ID">
+      <value>
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RUBY_REGEXP">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="FOREGROUND" value="2aa198" />
       </value>
     </option>
     <option name="RUBY_SPECIFIC_CALL">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="RUBY_SYMBOL">
-      <value>
-        <option name="FOREGROUND" value="dc322f" />
-      </value>
-    </option>
-    <option name="RUBY_WORDS">
       <value>
         <option name="FONT_TYPE" value="2" />
       </value>
@@ -1931,6 +1910,20 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="SLIM_FILTER">
+      <value>
+        <option name="FOREGROUND" value="6d72c2" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="SLIM_FILTER_CONTENT">
+      <value>
+        <option name="BACKGROUND" value="ffcccc" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SLIM_ID" baseAttributes="CSS.HASH" />
+    <option name="SLIM_RUBY_CODE" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="SMARTY_IDENTIFIER">
       <value>
         <option name="BACKGROUND" value="eee8d5" />
