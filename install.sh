@@ -34,7 +34,7 @@ do
             
             if [ "$?" = "0" ]
             then
-                echo The schemes was successfully installed for \"${ide:1}\" .
+                echo The schemes were successfully installed for \"${ide:1}\" .
             fi
         fi
     fi
