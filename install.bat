@@ -34,7 +34,7 @@ for /f "tokens=*" %%a in (
 		if !ERRORLEVEL! equ 0 (
 			set ideName=%%a
 			set ideName=!ideName:~1!
-			echo The scheme was successfully installed for "!ideName!" .
+			echo The schemes were successfully installed for "!ideName!" .
 		)
 	)	
 )
