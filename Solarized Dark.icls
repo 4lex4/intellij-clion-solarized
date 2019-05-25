@@ -1,4 +1,4 @@
-<scheme name="Solarized Dark" version="142" parent_scheme="Default">
+<scheme name="Solarized Dark" version="142" parent_scheme="Darcula">
   <colors>
     <option name="ADDED_LINES_COLOR" value="10483e" />
     <option name="ANNOTATIONS_COLOR" value="7899a4" />
