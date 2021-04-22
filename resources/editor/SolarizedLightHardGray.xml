@@ -243,6 +243,7 @@
         <option name="ERROR_STRIPE_COLOR" value="fdc1b2" />
       </value>
     </option>
+    <option name="BUILD.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="CLASS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="b38700" />
