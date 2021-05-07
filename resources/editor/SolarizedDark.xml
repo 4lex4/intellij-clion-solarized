@@ -1017,6 +1017,12 @@
         <option name="BACKGROUND" value="393d" />
       </value>
     </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="7a7a7a" />
+        <option name="BACKGROUND" value="0e3c4a" />
+      </value>
+    </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="657b83" />
