@@ -479,13 +479,14 @@
       "underlineColor": "#3D7EC0"
     },
     "Table": {
+      "alternativeRowBackground": "#FFF8E5",
       "background": "colorAlternativeBackground",
       "dropLineColor": "colorAcceleratorForeground",
       "dropLineShortColor": "#5F63A9",
       "focusCellBackground": "colorAlternativeBackground",
       "focusCellForeground": "colorForeground",
       "gridColor": "#F4EDDA",
-      "lightSelectionBackground": "#E7E6DA",
+      "lightSelectionBackground": "#E1E0D4",
       "lightSelectionForeground": "colorForeground",
       "lightSelectionInactiveBackground": "#F4EDDA",
       "lightSelectionInactiveForeground": "colorForeground",
@@ -591,6 +592,8 @@
           "selectedBranchBackground": "#FBF4C7"
         }
       },
+
+
       "GitLog": {
         "headIconColor": "#EABE00",
         "localBranchIconColor": "#2DA54A",
