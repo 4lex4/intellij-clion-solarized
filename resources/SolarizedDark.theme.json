@@ -475,12 +475,13 @@
       "underlineColor": "#3985C7"
     },
     "Table": {
+      "alternativeRowBackground": "#0F4150",
       "dropLineColor": "colorAcceleratorForeground",
       "dropLineShortColor": "#0C3542",
       "focusCellBackground": "colorAlternativeBackground",
       "focusCellForeground": "colorForeground",
       "gridColor": "#284E5B",
-      "lightSelectionBackground": "#1B4755",
+      "lightSelectionBackground": "#1B515F",
       "lightSelectionForeground": "colorForeground",
       "lightSelectionInactiveBackground": "#1B4755",
       "lightSelectionInactiveForeground": "colorForeground",
