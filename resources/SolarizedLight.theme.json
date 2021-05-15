@@ -479,7 +479,7 @@
       "underlineColor": "#3D7EC0"
     },
     "Table": {
-      "alternativeRowBackground": "#FDF6E3",
+      "alternativeRowBackground": "#FFF8E5",
       "background": "colorAlternativeBackground",
       "dropLineColor": "colorAcceleratorForeground",
       "dropLineShortColor": "#5F63A9",
